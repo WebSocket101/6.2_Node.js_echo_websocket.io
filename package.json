@@ -1,0 +1,11 @@
+{
+  "name": "WebSocket-io_Echo-Server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node echoServer"
+  },
+  "dependencies": {
+   "websocket":"1.0.*"
+  }
+}
