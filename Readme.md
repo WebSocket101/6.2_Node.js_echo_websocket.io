@@ -2,8 +2,7 @@
 Node.js Websocket-io Echo-Server
 
 # Dependencies
-* [Node.js]: http://nodejs.org/
-* [socket.io]: https://github.com/LearnBoost/websocket.io
+* Node.js: http://nodejs.org/
 
 # Deployment
 Before first time deployment please execute:
